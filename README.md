@@ -1,6 +1,7 @@
 # 0x00. Fix my code
 
 By Guillaume, CTO at Holberton School
+
 Author [Carlos Andres Polania](https://twitter.com/timberdev) (capolaniaq@correo.udistrital.edu.co)
 
 ## Tasks
