@@ -29,6 +29,6 @@ ARGV.each do |arg|
     result << i_arg if !is_inserted
 end
 
-result = result.sort.reverse
+result = result.sort
 
 puts result
