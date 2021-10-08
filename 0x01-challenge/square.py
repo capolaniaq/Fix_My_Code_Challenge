@@ -1,11 +1,11 @@
 #!/usr/bin/python3
 """Module that declare the square class"""
 
+
 class square():
     """class square"""
     width = 0
     height = 0
-
 
     def __init__(self, *args, **kwargs):
         """self items"""
